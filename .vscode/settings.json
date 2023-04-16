@@ -1,0 +1,15 @@
+{
+    "eslint.validate": [
+      "javascript",
+      "javascriptreact",
+      "typescript"
+    ],
+    "cSpell.words": [
+      "addins",
+      "infobar",
+      "MRCS",
+      "registerbtn",
+      "taskpane"
+    ]
+  }
+  
